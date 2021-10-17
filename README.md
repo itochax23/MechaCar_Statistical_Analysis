@@ -12,4 +12,4 @@
 3. T-Test on Suspension Coils
 4. Design a Study Comparing the MechaCar to the Competition
 
-## Summary
+## Linear Regression to Predict MPG
