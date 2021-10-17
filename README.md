@@ -18,3 +18,6 @@
   * Vehicle ground clearance
 * The slope of the linear model is not considered to be zero, because the p-value for this model is much smaller than 0.05. 
 * This linear model predicts mpg of MechaCar prototypes effectively because the model's r-squared value is approximately 71% (0.7149).
+
+## Summary Statistics on Suspension Coils
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The current manufacturing data does/does not meet this design specification for all manufacturing lots in total and each lot individually. This is because 
