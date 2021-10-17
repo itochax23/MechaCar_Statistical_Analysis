@@ -24,3 +24,5 @@ lot_summary <- Suspension %>% group_by(Manufacturing_Lot) %>% summarize(Mean = m
                                                                         Median = median(PSI),
                                                                         Variance = var(PSI),
                                                                         Std_Dev = sd(PSI))
+
+# T-Tests on Suspension Coils
